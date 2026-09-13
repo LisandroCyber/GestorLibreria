@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GestorLibreria/GestorLibreria.vcxproj" Id="71800217-0c22-4dc9-b330-b594f7d92a31" />
+</Solution>
